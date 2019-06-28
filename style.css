@@ -1,0 +1,75 @@
+body{
+	margin: 0;
+}
+.wrapper{
+	width: 1200px;
+	margin-top: 70px;
+	margin-left: 170px;
+	margin-bottom: 30px;
+	overflow: hidden;
+}
+.one{
+	width: 33.33%;
+	float: left;
+	margin-bottom: 15px;
+	padding: 0 5px;
+	box-sizing: border-box;
+}
+.blue{
+	height: 100px;
+	background-color: #72c2e3;
+	padding: 15px;
+	box-shadow: 5px 5px 10px;
+}
+.two{
+	width: 100%;
+	float: left;
+	margin-bottom: 15px;
+	padding: 0 5px;
+	box-sizing: border-box;
+}
+.orange{
+	height: 100px;
+	background-color: #eab778;
+	padding: 15px;
+	box-shadow: 5px 5px 10px;
+}
+.three{
+	width: 50%;
+	float: left;
+	margin-bottom: 15px;
+	padding: 0 5px;
+	box-sizing: border-box;
+}
+.lightgray{
+	height: 100px;
+	background-color: #696969;
+	padding: 15px;
+	box-shadow: 5px 5px 10px;
+}
+.four{
+	width: 60%;
+	float: left;
+	margin-bottom: 15px;
+	padding: 0 5px;
+	box-sizing: border-box;
+}
+.lightgreen{
+	height: 100px;
+	background-color: #1afc4f;
+	padding: 15px;
+	box-shadow: 5px 5px 10px;
+}
+.five{
+	width: 20%;
+	float: left;
+	margin-bottom: 15px;
+	padding: 0 5px;
+	box-sizing: border-box;
+}
+.yellow{
+	height: 100px;
+	background-color: #fffc00;
+	padding: 15px;
+	box-shadow: 5px 5px 10px;
+}
